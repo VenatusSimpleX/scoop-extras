@@ -1,5 +1,5 @@
 {
-    "version": "3.19",
+    "version": "3.22b",
     "description": "Powerful and easy-to-use tool to edit metadata of audio files.",
     "homepage": "https://www.mp3tag.de",
     "license": {
@@ -23,8 +23,8 @@
         "To find out if you have a have 32bit or 64bit Windows OS, run the following command:",
         "(Get-CimInstance win32_operatingsystem).OSArchitecture"
     ],
-    "url": "https://download.mp3tag.de/mp3tagv319setup.exe#/dl.7z",
-    "hash": "033835d4a5e5af7ab872c58ce2dd8b0d719c5160e679e0f868bf4430f77f13e8",
+    "url": "https://download.mp3tag.de/mp3tagv322bsetup.exe#/dl.7z",
+    "hash": "c9480c892433a286b593e682a2d93a4e592a9a2c7f9fada42c31e5a7d49719d3",
     "pre_install": [
         "'mp3tag.cfg', 'data\\columns.ini', 'data\\usrfields.ini' | ForEach-Object {",
         "   if (!(Test-Path \"$persist_dir\\$_\")) { New-Item \"$dir\\$_\" | Out-Null }",
