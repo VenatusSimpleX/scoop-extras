@@ -1,12 +1,12 @@
 {
-    "version": "2.3.0",
+    "version": "3.4.2",
     "description": "Bridge app that allows to users to use their preferred desktop mail client (e.g. Microsoft Outlook, Apple Mail, Mozilla Thunderbird), while benefiting from Proton Mail’s end-to-end encryption.",
     "homepage": "https://proton.me/mail/bridge",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ProtonMail/proton-bridge/releases/download/v2.3.0/Bridge-Installer.exe#/dl.exe",
-            "hash": "6937ff311718732ae432c67e45c469a83170bfab6216553472136de4d55bed6f"
+            "url": "https://github.com/ProtonMail/proton-bridge/releases/download/v3.4.2/Bridge-Installer.exe#/dl.exe",
+            "hash": "c5498a72743acdccd137424a5cd94f516a747b77f872f56def025a37ca331a04"
         }
     },
     "pre_install": [
