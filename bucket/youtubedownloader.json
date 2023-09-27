@@ -1,12 +1,12 @@
 {
-    "version": "1.9.8",
+    "version": "1.10.3",
     "description": "Download videos from YouTube.",
     "homepage": "https://github.com/Tyrrrz/YoutubeDownloader",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.9.8/YoutubeDownloader.zip",
-            "hash": "2b446c34ea497eac3bb5ddd4a2022d2cca654b047034ee56d6b11ab83ac9256f"
+            "url": "https://github.com/Tyrrrz/YoutubeDownloader/releases/download/1.10.3/YoutubeDownloader.zip",
+            "hash": "7e48cc12725ba01885ded130ca3a95cd3d63538aaeab1c87fa3dbf4064460377"
         }
     },
     "pre_install": [
