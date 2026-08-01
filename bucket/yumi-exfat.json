@@ -1,10 +1,10 @@
 {
-    "version": "1.0.4.0",
+    "version": "1.0.4.1",
     "description": "Multiboot USB Creator. Supports exFAT format, BIOS and UEFI USB boot.",
     "homepage": "https://www.pendrivelinux.com/yumi-multiboot-usb-creator/",
     "license": "GPL-2.0-or-later",
-    "url": "https://www.pendrivelinux.com/downloads/YUMI/YUMI-exFAT-1.0.4.0.exe#/YUMI-exFAT.exe",
-    "hash": "47437bf70f76012f769fdeb8cc7bd651a942940caab8276c44141db21ed2680c",
+    "url": "https://www.pendrivelinux.com/downloads/YUMI/YUMI-exFAT-1.0.4.1.exe#/YUMI-exFAT.exe",
+    "hash": "1ec3c99d7ae4478d3a9f714e8dbad65396a2bae5547cfcd0f209fa97fd823c12",
     "shortcuts": [
         [
             "YUMI-exFAT.exe",
